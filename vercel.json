@@ -1,0 +1,15 @@
+{
+   "version": 2,
+   "builds": [
+       {
+           "src": "./html2py.py",
+           "use": "@vercel/python"
+       }
+   ],
+   "routes": [
+       {
+           "src": "/(.*)",
+           "dest": "/"
+       }
+   ]
+}

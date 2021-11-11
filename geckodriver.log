@@ -1,0 +1,868 @@
+1636552252684	geckodriver	INFO	Listening on 127.0.0.1:53855
+1636552253205	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "53856" "-foreground" "-no-remote" "-profile" "/var/folders/xs/74k8fjls0hnds40rny9mcy_r0000gn/T/rust_mozprofilefgBTso"
+1636552254123	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/xs/74k8fjls0hnds40rny9mcy_r0000gn/T/rust_mozprofilefgBTso/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 243"  data: no]
+DevTools listening on ws://localhost:53856/devtools/browser/3d2cf404-1cc0-d040-bfc4-ab09306021d6
+1636552257975	Marionette	INFO	Listening on port 53867
+1636552258096	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.entrekids.cl/producto/sandalia-outdoor-nina-fagus-1ss1122, line 5508: TypeError: $(...).remodal() is undefined
+JavaScript error: https://www.entrekids.cl/producto/sandalia-outdoor-nina-fagus-1ss1122, line 4648: TypeError: $(...).remodal() is undefined
+1636552337144	geckodriver	INFO	Listening on 127.0.0.1:54409
+1636552337175	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "54410" "-foreground" "-no-remote" "-profile" "/var/folders/xs/74k8fjls0hnds40rny9mcy_r0000gn/T/rust_mozprofilenQuIir"
+1636552338106	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/xs/74k8fjls0hnds40rny9mcy_r0000gn/T/rust_mozprofilenQuIir/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 243"  data: no]
+DevTools listening on ws://localhost:54410/devtools/browser/672f6d6d-52bc-6741-8777-c8879cb74d0a
+1636552341461	Marionette	INFO	Listening on port 54415
+1636552341569	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.entrekids.cl/producto/sandalia-outdoor-nina-fagus-1ss1122, line 5508: TypeError: $(...).remodal() is undefined
+JavaScript error: https://www.entrekids.cl/producto/sandalia-outdoor-nina-fagus-1ss1122, line 4648: TypeError: $(...).remodal() is undefined
+1636552387989	geckodriver	INFO	Listening on 127.0.0.1:54800
+1636552388506	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "54801" "-foreground" "-no-remote" "-profile" "/var/folders/xs/74k8fjls0hnds40rny9mcy_r0000gn/T/rust_mozprofileXwxnET"
+1636552389627	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/xs/74k8fjls0hnds40rny9mcy_r0000gn/T/rust_mozprofileXwxnET/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 243"  data: no]
+DevTools listening on ws://localhost:54801/devtools/browser/620cc73f-8fbd-bb44-b92f-e5a42532ce27
+1636552392789	Marionette	INFO	Listening on port 54808
+1636552392875	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.entrekids.cl/producto/sandalia-outdoor-nina-fagus-1ss1122, line 5508: TypeError: $(...).remodal() is undefined
+JavaScript error: https://www.entrekids.cl/producto/sandalia-outdoor-nina-fagus-1ss1122, line 4648: TypeError: $(...).remodal() is undefined
+1636552431772	geckodriver	INFO	Listening on 127.0.0.1:55168
+1636552432292	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "55169" "-foreground" "-no-remote" "-profile" "/var/folders/xs/74k8fjls0hnds40rny9mcy_r0000gn/T/rust_mozprofileD6GMkB"
+1636552433483	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/xs/74k8fjls0hnds40rny9mcy_r0000gn/T/rust_mozprofileD6GMkB/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 243"  data: no]
+DevTools listening on ws://localhost:55169/devtools/browser/b953f1b3-8a80-fc46-98c6-ca9b17296f80
+1636552437925	Marionette	INFO	Listening on port 55182
+1636552437970	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.entrekids.cl/producto/sandalia-outdoor-nina-fagus-1ss1122, line 5508: TypeError: $(...).remodal() is undefined
+JavaScript error: https://www.entrekids.cl/producto/sandalia-outdoor-nina-fagus-1ss1122, line 4648: TypeError: $(...).remodal() is undefined
+1636552474762	geckodriver	INFO	Listening on 127.0.0.1:55544
+1636552475277	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "55545" "-foreground" "-no-remote" "-profile" "/var/folders/xs/74k8fjls0hnds40rny9mcy_r0000gn/T/rust_mozprofile8WNYJ9"
+1636552476256	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/xs/74k8fjls0hnds40rny9mcy_r0000gn/T/rust_mozprofile8WNYJ9/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 243"  data: no]
+DevTools listening on ws://localhost:55545/devtools/browser/af8cc573-ede5-6a4f-b5a0-bfd83bcf2b19
+1636552479844	Marionette	INFO	Listening on port 55552
+1636552479887	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.entrekids.cl/producto/sandalia-outdoor-nina-fagus-1ss1122, line 5508: TypeError: $(...).remodal() is undefined
+JavaScript error: https://www.entrekids.cl/producto/sandalia-outdoor-nina-fagus-1ss1122, line 4648: TypeError: $(...).remodal() is undefined
+1636552548488	geckodriver	INFO	Listening on 127.0.0.1:56034
+1636552549020	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "56035" "-foreground" "-no-remote" "-profile" "/var/folders/xs/74k8fjls0hnds40rny9mcy_r0000gn/T/rust_mozprofilehmxTHB"
+1636552550081	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/xs/74k8fjls0hnds40rny9mcy_r0000gn/T/rust_mozprofilehmxTHB/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 243"  data: no]
+DevTools listening on ws://localhost:56035/devtools/browser/20cae9ea-ee78-d647-b688-8b8e91b814ee
+1636552553902	Marionette	INFO	Listening on port 56046
+1636552553977	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.entrekids.cl/producto/sandalia-outdoor-nina-fagus-1ss1122, line 5508: TypeError: $(...).remodal() is undefined
+JavaScript error: https://www.entrekids.cl/producto/sandalia-outdoor-nina-fagus-1ss1122, line 4648: TypeError: $(...).remodal() is undefined
+1636552611339	geckodriver	INFO	Listening on 127.0.0.1:56493
+1636552611861	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "56494" "-foreground" "-no-remote" "-profile" "/var/folders/xs/74k8fjls0hnds40rny9mcy_r0000gn/T/rust_mozprofilekk69wj"
+1636552612944	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/xs/74k8fjls0hnds40rny9mcy_r0000gn/T/rust_mozprofilekk69wj/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 243"  data: no]
+DevTools listening on ws://localhost:56494/devtools/browser/94921321-1c1c-4045-8011-adb507224fe5
+1636552617041	Marionette	INFO	Listening on port 56501
+1636552617136	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.entrekids.cl/producto/sandalia-outdoor-nina-fagus-1ss1122, line 5508: TypeError: $(...).remodal() is undefined
+JavaScript error: https://www.entrekids.cl/producto/sandalia-outdoor-nina-fagus-1ss1122, line 4648: TypeError: $(...).remodal() is undefined
+!!! error running onStopped callback: TypeError: callback is not a function
+1636552655004	Marionette	INFO	Stopped listening on port 53867
+1636552655110	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIWindowMediator.getEnumerator]"  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: chrome://remote/content/cdp/observers/TargetObserver.jsm :: stop :: line 64"  data: no] Stack trace: stop()@TargetObserver.jsm:64
+unwatchForTabs()@TargetList.jsm:70
+unwatchForTargets()@TargetList.jsm:37
+destructor()@TargetList.jsm:109
+close()@RemoteAgent.jsm:129
+!!! error running onStopped callback: TypeError: callback is not a function
+1636552655858	Marionette	INFO	Stopped listening on port 54415
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1636552655955	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIWindowMediator.getEnumerator]"  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: chrome://remote/content/cdp/observers/TargetObserver.jsm :: stop :: line 64"  data: no] Stack trace: stop()@TargetObserver.jsm:64
+unwatchForTabs()@TargetList.jsm:70
+unwatchForTargets()@TargetList.jsm:37
+destructor()@TargetList.jsm:109
+close()@RemoteAgent.jsm:129
+!!! error running onStopped callback: TypeError: callback is not a function
+1636552656811	Marionette	INFO	Stopped listening on port 54808
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1636552656881	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIWindowMediator.getEnumerator]"  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: chrome://remote/content/cdp/observers/TargetObserver.jsm :: stop :: line 64"  data: no] Stack trace: stop()@TargetObserver.jsm:64
+unwatchForTabs()@TargetList.jsm:70
+unwatchForTargets()@TargetList.jsm:37
+destructor()@TargetList.jsm:109
+close()@RemoteAgent.jsm:129
+!!! error running onStopped callback: TypeError: callback is not a function
+1636552657730	Marionette	INFO	Stopped listening on port 55182
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1636552657789	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIWindowMediator.getEnumerator]"  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: chrome://remote/content/cdp/observers/TargetObserver.jsm :: stop :: line 64"  data: no] Stack trace: stop()@TargetObserver.jsm:64
+unwatchForTabs()@TargetList.jsm:70
+unwatchForTargets()@TargetList.jsm:37
+destructor()@TargetList.jsm:109
+close()@RemoteAgent.jsm:129
+!!! error running onStopped callback: TypeError: callback is not a function
+1636552658514	Marionette	INFO	Stopped listening on port 55552
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1636552658589	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIWindowMediator.getEnumerator]"  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: chrome://remote/content/cdp/observers/TargetObserver.jsm :: stop :: line 64"  data: no] Stack trace: stop()@TargetObserver.jsm:64
+unwatchForTabs()@TargetList.jsm:70
+unwatchForTargets()@TargetList.jsm:37
+destructor()@TargetList.jsm:109
+close()@RemoteAgent.jsm:129
+!!! error running onStopped callback: TypeError: callback is not a function
+1636552659755	Marionette	INFO	Stopped listening on port 56046
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1636552660244	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIWindowMediator.getEnumerator]"  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: chrome://remote/content/cdp/observers/TargetObserver.jsm :: stop :: line 64"  data: no] Stack trace: stop()@TargetObserver.jsm:64
+unwatchForTabs()@TargetList.jsm:70
+unwatchForTargets()@TargetList.jsm:37
+destructor()@TargetList.jsm:109
+close()@RemoteAgent.jsm:129
+!!! error running onStopped callback: TypeError: callback is not a function
+1636552660706	Marionette	INFO	Stopped listening on port 56501
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1636552661160	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIWindowMediator.getEnumerator]"  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: chrome://remote/content/cdp/observers/TargetObserver.jsm :: stop :: line 64"  data: no] Stack trace: stop()@TargetObserver.jsm:64
+unwatchForTabs()@TargetList.jsm:70
+unwatchForTargets()@TargetList.jsm:37
+destructor()@TargetList.jsm:109
+close()@RemoteAgent.jsm:129
+1636552789764	geckodriver	INFO	Listening on 127.0.0.1:57447
+1636552790284	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "57448" "-foreground" "-no-remote" "-profile" "/var/folders/xs/74k8fjls0hnds40rny9mcy_r0000gn/T/rust_mozprofileOVFDRr"
+1636552791176	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/xs/74k8fjls0hnds40rny9mcy_r0000gn/T/rust_mozprofileOVFDRr/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 243"  data: no]
+DevTools listening on ws://localhost:57448/devtools/browser/46f25bf8-b9bb-3c48-bb1e-341829402fa2
+1636552794099	Marionette	INFO	Listening on port 57455
+1636552794213	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.entrekids.cl/producto/sandalia-outdoor-nina-fagus-1ss1122, line 5508: TypeError: $(...).remodal() is undefined
+JavaScript error: https://www.entrekids.cl/producto/sandalia-outdoor-nina-fagus-1ss1122, line 4648: TypeError: $(...).remodal() is undefined
+1636552848477	geckodriver	INFO	Listening on 127.0.0.1:57858
+1636552848504	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "57859" "-foreground" "-no-remote" "-profile" "/var/folders/xs/74k8fjls0hnds40rny9mcy_r0000gn/T/rust_mozprofilemzpltR"
+1636552849109	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/xs/74k8fjls0hnds40rny9mcy_r0000gn/T/rust_mozprofilemzpltR/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 243"  data: no]
+DevTools listening on ws://localhost:57859/devtools/browser/0945ff8e-2ff1-3845-960d-34eec0580722
+1636552851779	Marionette	INFO	Listening on port 57864
+1636552851821	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.entrekids.cl/producto/sandalia-outdoor-nina-fagus-1ss1122, line 5508: TypeError: $(...).remodal() is undefined
+JavaScript error: https://www.entrekids.cl/producto/sandalia-outdoor-nina-fagus-1ss1122, line 4648: TypeError: $(...).remodal() is undefined
+1636552901883	geckodriver	INFO	Listening on 127.0.0.1:58251
+1636552901939	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "58252" "-foreground" "-no-remote" "-profile" "/var/folders/xs/74k8fjls0hnds40rny9mcy_r0000gn/T/rust_mozprofilexY3fsK"
+1636552902520	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/xs/74k8fjls0hnds40rny9mcy_r0000gn/T/rust_mozprofilexY3fsK/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 243"  data: no]
+DevTools listening on ws://localhost:58252/devtools/browser/0812d278-b685-c249-abbd-53a2e6c23054
+1636552905554	Marionette	INFO	Listening on port 58257
+1636552905583	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.entrekids.cl/producto/sandalia-outdoor-nina-fagus-1ss1122, line 5508: TypeError: $(...).remodal() is undefined
+JavaScript error: https://www.entrekids.cl/producto/sandalia-outdoor-nina-fagus-1ss1122, line 4648: TypeError: $(...).remodal() is undefined
+1636553028071	geckodriver	INFO	Listening on 127.0.0.1:58986
+1636553028110	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "58987" "-foreground" "-no-remote" "-profile" "/var/folders/xs/74k8fjls0hnds40rny9mcy_r0000gn/T/rust_mozprofileWgWuCS"
+1636553028652	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/xs/74k8fjls0hnds40rny9mcy_r0000gn/T/rust_mozprofileWgWuCS/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 243"  data: no]
+DevTools listening on ws://localhost:58987/devtools/browser/a5852a49-e1b9-034d-993e-8d50eec53167
+1636553031674	Marionette	INFO	Listening on port 58992
+1636553031772	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.entrekids.cl/producto/sandalia-outdoor-nina-fagus-1ss1122, line 5508: TypeError: $(...).remodal() is undefined
+JavaScript error: https://www.entrekids.cl/producto/sandalia-outdoor-nina-fagus-1ss1122, line 4648: TypeError: $(...).remodal() is undefined
+1636553048726	geckodriver	INFO	Listening on 127.0.0.1:59234
+1636553048742	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "59235" "-foreground" "-no-remote" "-profile" "/var/folders/xs/74k8fjls0hnds40rny9mcy_r0000gn/T/rust_mozprofile4lSzeR"
+1636553049606	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/xs/74k8fjls0hnds40rny9mcy_r0000gn/T/rust_mozprofile4lSzeR/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 243"  data: no]
+DevTools listening on ws://localhost:59235/devtools/browser/a13b9115-ab61-524c-92c5-ce17b2adfd25
+1636553052872	Marionette	INFO	Listening on port 59240
+1636553052948	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.entrekids.cl/actividad-evento/el-extraordinario-circo-de-halloween, line 6329: TypeError: $(...).remodal() is undefined
+JavaScript error: https://www.entrekids.cl/actividad-evento/el-extraordinario-circo-de-halloween, line 5469: TypeError: $(...).remodal() is undefined
+1636553212877	geckodriver	INFO	Listening on 127.0.0.1:60117
+1636553213396	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "60118" "-foreground" "-no-remote" "-profile" "/var/folders/xs/74k8fjls0hnds40rny9mcy_r0000gn/T/rust_mozprofileEWrj4Q"
+1636553215548	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/xs/74k8fjls0hnds40rny9mcy_r0000gn/T/rust_mozprofileEWrj4Q/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 243"  data: no]
+DevTools listening on ws://localhost:60118/devtools/browser/0f90a35c-8cd7-4b41-9957-6b133ab8c362
+1636553223516	Marionette	INFO	Listening on port 60126
+1636553223662	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.entrekids.cl/producto/sandalia-outdoor-nina-fagus-1ss1122, line 5508: TypeError: $(...).remodal() is undefined
+JavaScript error: https://www.entrekids.cl/producto/sandalia-outdoor-nina-fagus-1ss1122, line 4648: TypeError: $(...).remodal() is undefined
+1636553251840	geckodriver	INFO	Listening on 127.0.0.1:60533
+1636553251875	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "60534" "-foreground" "-no-remote" "-profile" "/var/folders/xs/74k8fjls0hnds40rny9mcy_r0000gn/T/rust_mozprofile6mrsGU"
+1636553253863	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/xs/74k8fjls0hnds40rny9mcy_r0000gn/T/rust_mozprofile6mrsGU/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 243"  data: no]
+DevTools listening on ws://localhost:60534/devtools/browser/855114e9-2ffd-2642-896d-a83df7a48e01
+1636553257640	Marionette	INFO	Listening on port 60539
+1636553257678	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.entrekids.cl/actividad-evento/el-extraordinario-circo-de-halloween, line 6329: TypeError: $(...).remodal() is undefined
+JavaScript error: https://www.entrekids.cl/actividad-evento/el-extraordinario-circo-de-halloween, line 5469: TypeError: $(...).remodal() is undefined
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+!!! error running onStopped callback: TypeError: callback is not a function
+1636553336094	Marionette	INFO	Stopped listening on port 59240
+1636553336215	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIWindowMediator.getEnumerator]"  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: chrome://remote/content/cdp/observers/TargetObserver.jsm :: stop :: line 64"  data: no] Stack trace: stop()@TargetObserver.jsm:64
+unwatchForTabs()@TargetList.jsm:70
+unwatchForTargets()@TargetList.jsm:37
+destructor()@TargetList.jsm:109
+close()@RemoteAgent.jsm:129
+!!! error running onStopped callback: TypeError: callback is not a function
+1636553337052	Marionette	INFO	Stopped listening on port 60126
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1636553337550	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIWindowMediator.getEnumerator]"  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: chrome://remote/content/cdp/observers/TargetObserver.jsm :: stop :: line 64"  data: no] Stack trace: stop()@TargetObserver.jsm:64
+unwatchForTabs()@TargetList.jsm:70
+unwatchForTargets()@TargetList.jsm:37
+destructor()@TargetList.jsm:109
+close()@RemoteAgent.jsm:129
+!!! error running onStopped callback: TypeError: callback is not a function
+1636553337824	Marionette	INFO	Stopped listening on port 60539
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+!!! error running onStopped callback: TypeError: callback is not a function
+1636553338734	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIWindowMediator.getEnumerator]"  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: chrome://remote/content/cdp/observers/TargetObserver.jsm :: stop :: line 64"  data: no] Stack trace: stop()@TargetObserver.jsm:64
+unwatchForTabs()@TargetList.jsm:70
+unwatchForTargets()@TargetList.jsm:37
+destructor()@TargetList.jsm:109
+close()@RemoteAgent.jsm:129
+1636553338808	Marionette	INFO	Stopped listening on port 58992
+1636553338903	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIWindowMediator.getEnumerator]"  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: chrome://remote/content/cdp/observers/TargetObserver.jsm :: stop :: line 64"  data: no] Stack trace: stop()@TargetObserver.jsm:64
+unwatchForTabs()@TargetList.jsm:70
+unwatchForTargets()@TargetList.jsm:37
+destructor()@TargetList.jsm:109
+close()@RemoteAgent.jsm:129
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5A0008,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+!!! error running onStopped callback: TypeError: callback is not a function
+1636553339631	Marionette	INFO	Stopped listening on port 58257
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1636553339728	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIWindowMediator.getEnumerator]"  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: chrome://remote/content/cdp/observers/TargetObserver.jsm :: stop :: line 64"  data: no] Stack trace: stop()@TargetObserver.jsm:64
+unwatchForTabs()@TargetList.jsm:70
+unwatchForTargets()@TargetList.jsm:37
+destructor()@TargetList.jsm:109
+close()@RemoteAgent.jsm:129
+!!! error running onStopped callback: TypeError: callback is not a function
+1636553340899	Marionette	INFO	Stopped listening on port 57864
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1636553340987	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIWindowMediator.getEnumerator]"  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: chrome://remote/content/cdp/observers/TargetObserver.jsm :: stop :: line 64"  data: no] Stack trace: stop()@TargetObserver.jsm:64
+unwatchForTabs()@TargetList.jsm:70
+unwatchForTargets()@TargetList.jsm:37
+destructor()@TargetList.jsm:109
+close()@RemoteAgent.jsm:129
+!!! error running onStopped callback: TypeError: callback is not a function
+1636553342168	Marionette	INFO	Stopped listening on port 57455
+1636553342266	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIWindowMediator.getEnumerator]"  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: chrome://remote/content/cdp/observers/TargetObserver.jsm :: stop :: line 64"  data: no] Stack trace: stop()@TargetObserver.jsm:64
+unwatchForTabs()@TargetList.jsm:70
+unwatchForTargets()@TargetList.jsm:37
+destructor()@TargetList.jsm:109
+close()@RemoteAgent.jsm:129
+1636553436024	geckodriver	INFO	Listening on 127.0.0.1:61481
+1636553436539	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "61482" "-foreground" "-no-remote" "-profile" "/var/folders/xs/74k8fjls0hnds40rny9mcy_r0000gn/T/rust_mozprofilefrQpRN"
+1636553437514	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/xs/74k8fjls0hnds40rny9mcy_r0000gn/T/rust_mozprofilefrQpRN/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 243"  data: no]
+DevTools listening on ws://localhost:61482/devtools/browser/e76dac45-70b4-c642-8b2e-e07cbffdeb53
+1636553440209	Marionette	INFO	Listening on port 61490
+1636553440291	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.entrekids.cl/producto/sandalia-outdoor-nina-fagus-1ss1122, line 5508: TypeError: $(...).remodal() is undefined
+JavaScript error: https://www.entrekids.cl/producto/sandalia-outdoor-nina-fagus-1ss1122, line 4648: TypeError: $(...).remodal() is undefined
+1636553458323	geckodriver	INFO	Listening on 127.0.0.1:61735
+1636553458848	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "61736" "-foreground" "-no-remote" "-profile" "/var/folders/xs/74k8fjls0hnds40rny9mcy_r0000gn/T/rust_mozprofileBJuDnN"
+1636553459509	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/xs/74k8fjls0hnds40rny9mcy_r0000gn/T/rust_mozprofileBJuDnN/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 243"  data: no]
+DevTools listening on ws://localhost:61736/devtools/browser/a6730dfe-70de-4041-b3c0-148748d4b903
+1636553462353	Marionette	INFO	Listening on port 61744
+1636553462389	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.entrekids.cl/actividad-evento/el-extraordinario-circo-de-halloween, line 6329: TypeError: $(...).remodal() is undefined
+JavaScript error: https://www.entrekids.cl/actividad-evento/el-extraordinario-circo-de-halloween, line 5469: TypeError: $(...).remodal() is undefined
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1636555216016	geckodriver	INFO	Listening on 127.0.0.1:53120
+1636555216038	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "53121" "-foreground" "-no-remote" "-profile" "/var/folders/xs/74k8fjls0hnds40rny9mcy_r0000gn/T/rust_mozprofilewfN1fe"
+1636555217302	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/xs/74k8fjls0hnds40rny9mcy_r0000gn/T/rust_mozprofilewfN1fe/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 243"  data: no]
+DevTools listening on ws://localhost:53121/devtools/browser/6a96fb8f-2eaa-7f44-b00b-d0072884d70c
+1636555220513	Marionette	INFO	Listening on port 53130
+1636555220549	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+JavaScript error: https://www.entrekids.cl/producto/sandalia-outdoor-nina-fagus-1ss1122, line 5508: TypeError: $(...).remodal() is undefined
+JavaScript error: https://www.entrekids.cl/producto/sandalia-outdoor-nina-fagus-1ss1122, line 4648: TypeError: $(...).remodal() is undefined
+1636555256947	geckodriver	INFO	Listening on 127.0.0.1:53502
+1636555257132	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "53503" "-foreground" "-no-remote" "-profile" "/var/folders/xs/74k8fjls0hnds40rny9mcy_r0000gn/T/rust_mozprofileUUzAtD"
+1636555258871	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/xs/74k8fjls0hnds40rny9mcy_r0000gn/T/rust_mozprofileUUzAtD/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 243"  data: no]
+DevTools listening on ws://localhost:53503/devtools/browser/a6f43342-22f4-4140-b8aa-043711dd6bb1
+1636555263980	Marionette	INFO	Listening on port 53508
+1636555264047	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.entrekids.cl/actividad-evento/el-extraordinario-circo-de-halloween, line 6329: TypeError: $(...).remodal() is undefined
+JavaScript error: https://www.entrekids.cl/actividad-evento/el-extraordinario-circo-de-halloween, line 5469: TypeError: $(...).remodal() is undefined
+1636555285940	geckodriver	INFO	Listening on 127.0.0.1:53849
+1636555286458	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "53850" "-foreground" "-no-remote" "-profile" "/var/folders/xs/74k8fjls0hnds40rny9mcy_r0000gn/T/rust_mozprofileMOplaV"
+1636555287717	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/xs/74k8fjls0hnds40rny9mcy_r0000gn/T/rust_mozprofileMOplaV/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 243"  data: no]
+DevTools listening on ws://localhost:53850/devtools/browser/f13dd2ac-66dc-0048-95f5-4fd6f2d1f83e
+1636555291146	Marionette	INFO	Listening on port 53861
+1636555291266	Marionette	WARN	TLS certificate errors will be ignored for this session
+1636555318730	geckodriver	INFO	Listening on 127.0.0.1:54077
+1636555318802	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "54078" "-foreground" "-no-remote" "-profile" "/var/folders/xs/74k8fjls0hnds40rny9mcy_r0000gn/T/rust_mozprofileGNIEDl"
+1636555319842	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/xs/74k8fjls0hnds40rny9mcy_r0000gn/T/rust_mozprofileGNIEDl/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 243"  data: no]
+DevTools listening on ws://localhost:54078/devtools/browser/f8e448bc-a727-b744-bc23-3bdadda1909e
+1636555325803	Marionette	INFO	Listening on port 54083
+1636555325908	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.entrekids.cl/actividad-evento/el-extraordinario-circo-de-halloween, line 6329: TypeError: $(...).remodal() is undefined
+JavaScript error: https://www.entrekids.cl/actividad-evento/el-extraordinario-circo-de-halloween, line 5469: TypeError: $(...).remodal() is undefined
+1636555351781	geckodriver	INFO	Listening on 127.0.0.1:54438
+1636555351809	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "54439" "-foreground" "-no-remote" "-profile" "/var/folders/xs/74k8fjls0hnds40rny9mcy_r0000gn/T/rust_mozprofile8JW8hd"
+1636555353911	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/xs/74k8fjls0hnds40rny9mcy_r0000gn/T/rust_mozprofile8JW8hd/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 243"  data: no]
+DevTools listening on ws://localhost:54439/devtools/browser/c8a510a8-8fdb-b84f-af71-0c0407700336
+1636555361080	Marionette	INFO	Listening on port 54448
+1636555361173	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.entrekids.cl/actividad-evento/el-extraordinario-circo-de-halloween, line 6329: TypeError: $(...).remodal() is undefined
+JavaScript error: https://www.entrekids.cl/actividad-evento/el-extraordinario-circo-de-halloween, line 5469: TypeError: $(...).remodal() is undefined
+1636555387397	geckodriver	INFO	Listening on 127.0.0.1:54880
+1636555387468	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "54881" "-foreground" "-no-remote" "-profile" "/var/folders/xs/74k8fjls0hnds40rny9mcy_r0000gn/T/rust_mozprofileZNU2ko"
+1636555389333	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/xs/74k8fjls0hnds40rny9mcy_r0000gn/T/rust_mozprofileZNU2ko/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 243"  data: no]
+DevTools listening on ws://localhost:54881/devtools/browser/dd24fefe-9904-224f-b589-9b1aaf116a8a
+1636555396472	Marionette	INFO	Listening on port 54890
+1636555396590	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 73806, Main Thread] WARNING: FileDescriptorSet destroyed with unconsumed descriptors: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/file_descriptor_set_posix.cc:19
+[Parent 73806, Main Thread] WARNING: FileDescriptorSet destroyed with unconsumed descriptors: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/file_descriptor_set_posix.cc:19
+JavaScript error: https://www.entrekids.cl/actividad-evento/el-extraordinario-circo-de-halloween, line 6329: TypeError: $(...).remodal() is undefined
+JavaScript error: https://www.entrekids.cl/actividad-evento/el-extraordinario-circo-de-halloween, line 5469: TypeError: $(...).remodal() is undefined
+1636555428617	geckodriver	INFO	Listening on 127.0.0.1:55310
+1636555429136	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "55311" "-foreground" "-no-remote" "-profile" "/var/folders/xs/74k8fjls0hnds40rny9mcy_r0000gn/T/rust_mozprofileMzdUw9"
+1636555430243	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/xs/74k8fjls0hnds40rny9mcy_r0000gn/T/rust_mozprofileMzdUw9/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 243"  data: no]
+DevTools listening on ws://localhost:55311/devtools/browser/c7ced531-436a-e345-9b4a-6bb8f91523b2
+1636555434171	Marionette	INFO	Listening on port 55322
+1636555434300	Marionette	WARN	TLS certificate errors will be ignored for this session
+!!! error running onStopped callback: TypeError: callback is not a function
+1636555458948	Marionette	INFO	Stopped listening on port 61490
+1636555459039	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIWindowMediator.getEnumerator]"  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: chrome://remote/content/cdp/observers/TargetObserver.jsm :: stop :: line 64"  data: no] Stack trace: stop()@TargetObserver.jsm:64
+unwatchForTabs()@TargetList.jsm:70
+unwatchForTargets()@TargetList.jsm:37
+destructor()@TargetList.jsm:109
+close()@RemoteAgent.jsm:129
+!!! error running onStopped callback: TypeError: callback is not a function
+1636555462886	Marionette	INFO	Stopped listening on port 61744
+1636555462984	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIWindowMediator.getEnumerator]"  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: chrome://remote/content/cdp/observers/TargetObserver.jsm :: stop :: line 64"  data: no] Stack trace: stop()@TargetObserver.jsm:64
+unwatchForTabs()@TargetList.jsm:70
+unwatchForTargets()@TargetList.jsm:37
+destructor()@TargetList.jsm:109
+close()@RemoteAgent.jsm:129
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+!!! error running onStopped callback: TypeError: callback is not a function
+1636555470810	Marionette	INFO	Stopped listening on port 53861
+1636555470866	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIWindowMediator.getEnumerator]"  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: chrome://remote/content/cdp/observers/TargetObserver.jsm :: stop :: line 64"  data: no] Stack trace: stop()@TargetObserver.jsm:64
+unwatchForTabs()@TargetList.jsm:70
+unwatchForTargets()@TargetList.jsm:37
+destructor()@TargetList.jsm:109
+close()@RemoteAgent.jsm:129
+!!! error running onStopped callback: TypeError: callback is not a function
+1636555472056	Marionette	INFO	Stopped listening on port 54083
+1636555472183	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIWindowMediator.getEnumerator]"  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: chrome://remote/content/cdp/observers/TargetObserver.jsm :: stop :: line 64"  data: no] Stack trace: stop()@TargetObserver.jsm:64
+unwatchForTabs()@TargetList.jsm:70
+unwatchForTargets()@TargetList.jsm:37
+destructor()@TargetList.jsm:109
+close()@RemoteAgent.jsm:129
+!!! error running onStopped callback: TypeError: callback is not a function
+1636555474308	Marionette	INFO	Stopped listening on port 54890
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1636555474689	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIWindowMediator.getEnumerator]"  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: chrome://remote/content/cdp/observers/TargetObserver.jsm :: stop :: line 64"  data: no] Stack trace: stop()@TargetObserver.jsm:64
+unwatchForTabs()@TargetList.jsm:70
+unwatchForTargets()@TargetList.jsm:37
+destructor()@TargetList.jsm:109
+close()@RemoteAgent.jsm:129
+!!! error running onStopped callback: TypeError: callback is not a function
+1636555475383	Marionette	INFO	Stopped listening on port 55322
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1636555475759	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIWindowMediator.getEnumerator]"  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: chrome://remote/content/cdp/observers/TargetObserver.jsm :: stop :: line 64"  data: no] Stack trace: stop()@TargetObserver.jsm:64
+unwatchForTabs()@TargetList.jsm:70
+unwatchForTargets()@TargetList.jsm:37
+destructor()@TargetList.jsm:109
+close()@RemoteAgent.jsm:129
+!!! error running onStopped callback: TypeError: callback is not a function
+1636555476560	Marionette	INFO	Stopped listening on port 54448
+1636555476797	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIWindowMediator.getEnumerator]"  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: chrome://remote/content/cdp/observers/TargetObserver.jsm :: stop :: line 64"  data: no] Stack trace: stop()@TargetObserver.jsm:64
+unwatchForTabs()@TargetList.jsm:70
+unwatchForTargets()@TargetList.jsm:37
+destructor()@TargetList.jsm:109
+close()@RemoteAgent.jsm:129
+!!! error running onStopped callback: TypeError: callback is not a function
+1636555477526	Marionette	INFO	Stopped listening on port 53508
+1636555477589	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIWindowMediator.getEnumerator]"  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: chrome://remote/content/cdp/observers/TargetObserver.jsm :: stop :: line 64"  data: no] Stack trace: stop()@TargetObserver.jsm:64
+unwatchForTabs()@TargetList.jsm:70
+unwatchForTargets()@TargetList.jsm:37
+destructor()@TargetList.jsm:109
+close()@RemoteAgent.jsm:129
+1636556175812	geckodriver	INFO	Listening on 127.0.0.1:58740
+1636556176329	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "58741" "-foreground" "-no-remote" "-profile" "/var/folders/xs/74k8fjls0hnds40rny9mcy_r0000gn/T/rust_mozprofileghhyD8"
+1636556177816	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/xs/74k8fjls0hnds40rny9mcy_r0000gn/T/rust_mozprofileghhyD8/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 243"  data: no]
+DevTools listening on ws://localhost:58741/devtools/browser/5446cfa7-c3c3-0c4b-ae55-6f060f23d78a
+1636556183107	Marionette	INFO	Listening on port 58752
+1636556183153	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.entrekids.cl/actividad-evento/el-extraordinario-circo-de-halloween, line 6329: TypeError: $(...).remodal() is undefined
+JavaScript error: https://www.entrekids.cl/actividad-evento/el-extraordinario-circo-de-halloween, line 5469: TypeError: $(...).remodal() is undefined
+1636556204447	geckodriver	INFO	Listening on 127.0.0.1:59088
+1636556204970	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "59089" "-foreground" "-no-remote" "-profile" "/var/folders/xs/74k8fjls0hnds40rny9mcy_r0000gn/T/rust_mozprofileKhjTSa"
+1636556205572	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/xs/74k8fjls0hnds40rny9mcy_r0000gn/T/rust_mozprofileKhjTSa/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 243"  data: no]
+DevTools listening on ws://localhost:59089/devtools/browser/7f5b0324-aac6-cf42-ac0e-9ea87451a370
+1636556208859	Marionette	INFO	Listening on port 59096
+1636556208928	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.entrekids.cl/actividad-evento/el-extraordinario-circo-de-halloween, line 6329: TypeError: $(...).remodal() is undefined
+JavaScript error: https://www.entrekids.cl/actividad-evento/el-extraordinario-circo-de-halloween, line 5469: TypeError: $(...).remodal() is undefined
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1636556752512	geckodriver	INFO	Listening on 127.0.0.1:61653
+1636556752548	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "61654" "-foreground" "-no-remote" "-profile" "/var/folders/xs/74k8fjls0hnds40rny9mcy_r0000gn/T/rust_mozprofilej3R3pu"
+1636556753233	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/xs/74k8fjls0hnds40rny9mcy_r0000gn/T/rust_mozprofilej3R3pu/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 243"  data: no]
+DevTools listening on ws://localhost:61654/devtools/browser/0d7cf08d-3051-884e-89ae-97a01d61c522
+1636556757542	Marionette	INFO	Listening on port 61659
+1636556757634	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.entrekids.cl/actividad-evento/el-extraordinario-circo-de-halloween, line 6329: TypeError: $(...).remodal() is undefined
+JavaScript error: https://www.entrekids.cl/actividad-evento/el-extraordinario-circo-de-halloween, line 5469: TypeError: $(...).remodal() is undefined
+1636556860191	geckodriver	INFO	Listening on 127.0.0.1:62306
+1636556860714	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "62307" "-foreground" "-no-remote" "-profile" "/var/folders/xs/74k8fjls0hnds40rny9mcy_r0000gn/T/rust_mozprofileGXKDIB"
+1636556862049	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/xs/74k8fjls0hnds40rny9mcy_r0000gn/T/rust_mozprofileGXKDIB/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:62307/devtools/browser/8b6d4195-b101-2749-aaea-790c00c13df6
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 243"  data: no]
+1636556866397	Marionette	INFO	Listening on port 62314
+1636556866436	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.entrekids.cl/actividad-evento/el-extraordinario-circo-de-halloween, line 6329: TypeError: $(...).remodal() is undefined
+JavaScript error: https://www.entrekids.cl/actividad-evento/el-extraordinario-circo-de-halloween, line 5469: TypeError: $(...).remodal() is undefined
+1636556907121	geckodriver	INFO	Listening on 127.0.0.1:62717
+1636556907161	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "62718" "-foreground" "-no-remote" "-profile" "/var/folders/xs/74k8fjls0hnds40rny9mcy_r0000gn/T/rust_mozprofileqdxQct"
+1636556909101	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/xs/74k8fjls0hnds40rny9mcy_r0000gn/T/rust_mozprofileqdxQct/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 243"  data: no]
+DevTools listening on ws://localhost:62718/devtools/browser/adbbc5fc-0fc9-fc40-87da-7befc0a3bd83
+1636556916535	Marionette	INFO	Listening on port 62723
+1636556916622	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.entrekids.cl/actividad-evento/el-extraordinario-circo-de-halloween, line 6329: TypeError: $(...).remodal() is undefined
+JavaScript error: https://www.entrekids.cl/actividad-evento/el-extraordinario-circo-de-halloween, line 5469: TypeError: $(...).remodal() is undefined
+1636557061988	geckodriver	INFO	Listening on 127.0.0.1:63677
+1636557062509	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "63678" "-foreground" "-no-remote" "-profile" "/var/folders/xs/74k8fjls0hnds40rny9mcy_r0000gn/T/rust_mozprofileshG81q"
+1636557063968	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/xs/74k8fjls0hnds40rny9mcy_r0000gn/T/rust_mozprofileshG81q/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 243"  data: no]
+DevTools listening on ws://localhost:63678/devtools/browser/585b2efa-1f6b-f348-9ec2-41df1a0b2395
+1636557071035	Marionette	INFO	Listening on port 63689
+1636557071117	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.entrekids.cl/actividad-evento/el-extraordinario-circo-de-halloween, line 6329: TypeError: $(...).remodal() is undefined
+JavaScript error: https://www.entrekids.cl/actividad-evento/el-extraordinario-circo-de-halloween, line 5469: TypeError: $(...).remodal() is undefined
+1636557099784	geckodriver	INFO	Listening on 127.0.0.1:64062
+1636557099824	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "64063" "-foreground" "-no-remote" "-profile" "/var/folders/xs/74k8fjls0hnds40rny9mcy_r0000gn/T/rust_mozprofilebTgA5F"
+1636557101619	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/xs/74k8fjls0hnds40rny9mcy_r0000gn/T/rust_mozprofilebTgA5F/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 243"  data: no]
+DevTools listening on ws://localhost:64063/devtools/browser/17ac554e-9667-3643-9d1a-d7918b4ccfae
+1636557107241	Marionette	INFO	Listening on port 64068
+1636557107328	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.entrekids.cl/actividad-evento/el-extraordinario-circo-de-halloween, line 6329: TypeError: $(...).remodal() is undefined
+JavaScript error: https://www.entrekids.cl/actividad-evento/el-extraordinario-circo-de-halloween, line 5469: TypeError: $(...).remodal() is undefined
+1636557261371	geckodriver	INFO	Listening on 127.0.0.1:65019
+1636557261883	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "65020" "-foreground" "-no-remote" "-profile" "/var/folders/xs/74k8fjls0hnds40rny9mcy_r0000gn/T/rust_mozprofilesCCjF0"
+1636557263507	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/xs/74k8fjls0hnds40rny9mcy_r0000gn/T/rust_mozprofilesCCjF0/search.json.mozlz4", (void 0)))
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 243"  data: no]
+DevTools listening on ws://localhost:65020/devtools/browser/e1d3c889-b0cb-cc44-8997-57cf2fb6def4
+1636557268794	Marionette	INFO	Listening on port 65032
+1636557268886	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.entrekids.cl/actividad-evento/el-extraordinario-circo-de-halloween, line 6329: TypeError: $(...).remodal() is undefined
+JavaScript error: https://www.entrekids.cl/actividad-evento/el-extraordinario-circo-de-halloween, line 5469: TypeError: $(...).remodal() is undefined
+1636557300381	geckodriver	INFO	Listening on 127.0.0.1:65422
+1636557300410	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "65423" "-foreground" "-no-remote" "-profile" "/var/folders/xs/74k8fjls0hnds40rny9mcy_r0000gn/T/rust_mozprofileccqTJF"
+1636557302146	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/xs/74k8fjls0hnds40rny9mcy_r0000gn/T/rust_mozprofileccqTJF/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 243"  data: no]
+DevTools listening on ws://localhost:65423/devtools/browser/b3934709-1bd1-c44b-a178-8aba1d492656
+1636557309405	Marionette	INFO	Listening on port 65428
+1636557309470	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.entrekids.cl/actividad-evento/el-extraordinario-circo-de-halloween, line 6329: TypeError: $(...).remodal() is undefined
+JavaScript error: https://www.entrekids.cl/actividad-evento/el-extraordinario-circo-de-halloween, line 5469: TypeError: $(...).remodal() is undefined
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+!!! error running onStopped callback: TypeError: callback is not a function
+1636557387342	Marionette	INFO	Stopped listening on port 59096
+1636557387597	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIWindowMediator.getEnumerator]"  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: chrome://remote/content/cdp/observers/TargetObserver.jsm :: stop :: line 64"  data: no] Stack trace: stop()@TargetObserver.jsm:64
+unwatchForTabs()@TargetList.jsm:70
+unwatchForTargets()@TargetList.jsm:37
+destructor()@TargetList.jsm:109
+close()@RemoteAgent.jsm:129
+!!! error running onStopped callback: TypeError: callback is not a function
+1636557388243	Marionette	INFO	Stopped listening on port 61659
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1636557388429	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIWindowMediator.getEnumerator]"  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: chrome://remote/content/cdp/observers/TargetObserver.jsm :: stop :: line 64"  data: no] Stack trace: stop()@TargetObserver.jsm:64
+unwatchForTabs()@TargetList.jsm:70
+unwatchForTargets()@TargetList.jsm:37
+destructor()@TargetList.jsm:109
+close()@RemoteAgent.jsm:129
+!!! error running onStopped callback: TypeError: callback is not a function
+1636557390346	Marionette	INFO	Stopped listening on port 62723
+1636557390535	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIWindowMediator.getEnumerator]"  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: chrome://remote/content/cdp/observers/TargetObserver.jsm :: stop :: line 64"  data: no] Stack trace: stop()@TargetObserver.jsm:64
+unwatchForTabs()@TargetList.jsm:70
+unwatchForTargets()@TargetList.jsm:37
+destructor()@TargetList.jsm:109
+close()@RemoteAgent.jsm:129
+!!! error running onStopped callback: TypeError: callback is not a function
+1636557397034	Marionette	INFO	Stopped listening on port 65032
+!!! error running onStopped callback: TypeError: callback is not a function
+1636557398050	Marionette	INFO	Stopped listening on port 65428
+1636557398204	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIWindowMediator.getEnumerator]"  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: chrome://remote/content/cdp/observers/TargetObserver.jsm :: stop :: line 64"  data: no] Stack trace: stop()@TargetObserver.jsm:64
+unwatchForTabs()@TargetList.jsm:70
+unwatchForTargets()@TargetList.jsm:37
+destructor()@TargetList.jsm:109
+close()@RemoteAgent.jsm:129
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1636557398979	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIWindowMediator.getEnumerator]"  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: chrome://remote/content/cdp/observers/TargetObserver.jsm :: stop :: line 64"  data: no] Stack trace: stop()@TargetObserver.jsm:64
+unwatchForTabs()@TargetList.jsm:70
+unwatchForTargets()@TargetList.jsm:37
+destructor()@TargetList.jsm:109
+close()@RemoteAgent.jsm:129
+!!! error running onStopped callback: TypeError: callback is not a function
+1636557401831	Marionette	INFO	Stopped listening on port 63689
+1636557401955	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIWindowMediator.getEnumerator]"  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: chrome://remote/content/cdp/observers/TargetObserver.jsm :: stop :: line 64"  data: no] Stack trace: stop()@TargetObserver.jsm:64
+unwatchForTabs()@TargetList.jsm:70
+unwatchForTargets()@TargetList.jsm:37
+destructor()@TargetList.jsm:109
+close()@RemoteAgent.jsm:129
+!!! error running onStopped callback: TypeError: callback is not a function
+1636557403002	Marionette	INFO	Stopped listening on port 64068
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1636557403101	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIWindowMediator.getEnumerator]"  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: chrome://remote/content/cdp/observers/TargetObserver.jsm :: stop :: line 64"  data: no] Stack trace: stop()@TargetObserver.jsm:64
+unwatchForTabs()@TargetList.jsm:70
+unwatchForTargets()@TargetList.jsm:37
+destructor()@TargetList.jsm:109
+close()@RemoteAgent.jsm:129
+!!! error running onStopped callback: TypeError: callback is not a function
+1636557404352	Marionette	INFO	Stopped listening on port 62314
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1636557404451	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIWindowMediator.getEnumerator]"  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: chrome://remote/content/cdp/observers/TargetObserver.jsm :: stop :: line 64"  data: no] Stack trace: stop()@TargetObserver.jsm:64
+unwatchForTabs()@TargetList.jsm:70
+unwatchForTargets()@TargetList.jsm:37
+destructor()@TargetList.jsm:109
+close()@RemoteAgent.jsm:129
+!!! error running onStopped callback: TypeError: callback is not a function
+1636557406750	Marionette	INFO	Stopped listening on port 58752
+1636557408847	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIWindowMediator.getEnumerator]"  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: chrome://remote/content/cdp/observers/TargetObserver.jsm :: stop :: line 64"  data: no] Stack trace: stop()@TargetObserver.jsm:64
+unwatchForTabs()@TargetList.jsm:70
+unwatchForTargets()@TargetList.jsm:37
+destructor()@TargetList.jsm:109
+close()@RemoteAgent.jsm:129
+1636557480478	geckodriver	INFO	Listening on 127.0.0.1:50030
+1636557481003	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "50031" "-foreground" "-no-remote" "-profile" "/var/folders/xs/74k8fjls0hnds40rny9mcy_r0000gn/T/rust_mozprofiletSsxnc"
+1636557482370	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/xs/74k8fjls0hnds40rny9mcy_r0000gn/T/rust_mozprofiletSsxnc/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 243"  data: no]
+DevTools listening on ws://localhost:50031/devtools/browser/57b32922-99a7-d04a-b013-e8b9806fac9d
+1636557487449	Marionette	INFO	Listening on port 50042
+1636557487524	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.entrekids.cl/actividad-evento/el-extraordinario-circo-de-halloween, line 6329: TypeError: $(...).remodal() is undefined
+JavaScript error: https://www.entrekids.cl/actividad-evento/el-extraordinario-circo-de-halloween, line 5469: TypeError: $(...).remodal() is undefined
+1636557520495	geckodriver	INFO	Listening on 127.0.0.1:50456
+1636557520527	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "50457" "-foreground" "-no-remote" "-profile" "/var/folders/xs/74k8fjls0hnds40rny9mcy_r0000gn/T/rust_mozprofileaR5Vue"
+1636557521486	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/xs/74k8fjls0hnds40rny9mcy_r0000gn/T/rust_mozprofileaR5Vue/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 243"  data: no]
+DevTools listening on ws://localhost:50457/devtools/browser/b8714074-de1e-0049-81c0-b9a5b064f025
+1636557525990	Marionette	INFO	Listening on port 50462
+1636557526051	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.entrekids.cl/actividad-evento/el-extraordinario-circo-de-halloween, line 6329: TypeError: $(...).remodal() is undefined
+JavaScript error: https://www.entrekids.cl/actividad-evento/el-extraordinario-circo-de-halloween, line 5469: TypeError: $(...).remodal() is undefined
+!!! error running onStopped callback: TypeError: callback is not a function
+1636557613114	Marionette	INFO	Stopped listening on port 50462
+1636557613785	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIWindowMediator.getEnumerator]"  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: chrome://remote/content/cdp/observers/TargetObserver.jsm :: stop :: line 64"  data: no] Stack trace: stop()@TargetObserver.jsm:64
+unwatchForTabs()@TargetList.jsm:70
+unwatchForTargets()@TargetList.jsm:37
+destructor()@TargetList.jsm:109
+close()@RemoteAgent.jsm:129
+!!! error running onStopped callback: TypeError: callback is not a function
+1636557615411	Marionette	INFO	Stopped listening on port 50042
+1636557615480	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIWindowMediator.getEnumerator]"  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: chrome://remote/content/cdp/observers/TargetObserver.jsm :: stop :: line 64"  data: no] Stack trace: stop()@TargetObserver.jsm:64
+unwatchForTabs()@TargetList.jsm:70
+unwatchForTargets()@TargetList.jsm:37
+destructor()@TargetList.jsm:109
+close()@RemoteAgent.jsm:129
+1636558138341	geckodriver	INFO	Listening on 127.0.0.1:53327
+1636558138858	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "53328" "-foreground" "-no-remote" "-profile" "/var/folders/xs/74k8fjls0hnds40rny9mcy_r0000gn/T/rust_mozprofile90H7fI"
+1636558139924	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/xs/74k8fjls0hnds40rny9mcy_r0000gn/T/rust_mozprofile90H7fI/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 243"  data: no]
+DevTools listening on ws://localhost:53328/devtools/browser/b8b2355d-e63b-3348-840c-b3a640c30e65
+1636558144841	Marionette	INFO	Listening on port 53336
+1636558144958	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.entrekids.cl/actividad-evento/el-extraordinario-circo-de-halloween, line 6329: TypeError: $(...).remodal() is undefined
+JavaScript error: https://www.entrekids.cl/actividad-evento/el-extraordinario-circo-de-halloween, line 5469: TypeError: $(...).remodal() is undefined
+1636558268230	geckodriver	INFO	Listening on 127.0.0.1:54116
+1636558268288	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "54117" "-foreground" "-no-remote" "-profile" "/var/folders/xs/74k8fjls0hnds40rny9mcy_r0000gn/T/rust_mozprofileL8lbs3"
+1636558269615	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/xs/74k8fjls0hnds40rny9mcy_r0000gn/T/rust_mozprofileL8lbs3/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 243"  data: no]
+DevTools listening on ws://localhost:54117/devtools/browser/72d61724-41d4-0f45-a71e-7a78eac15ceb
+1636558275461	Marionette	INFO	Listening on port 54124
+1636558275619	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.entrekids.cl/actividad-evento/el-extraordinario-circo-de-halloween, line 6329: TypeError: $(...).remodal() is undefined
+JavaScript error: https://www.entrekids.cl/actividad-evento/el-extraordinario-circo-de-halloween, line 5469: TypeError: $(...).remodal() is undefined
+1636558454521	geckodriver	INFO	Listening on 127.0.0.1:55159
+1636558454553	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "55160" "-foreground" "-no-remote" "-profile" "/var/folders/xs/74k8fjls0hnds40rny9mcy_r0000gn/T/rust_mozprofileySThm5"
+1636558455616	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/xs/74k8fjls0hnds40rny9mcy_r0000gn/T/rust_mozprofileySThm5/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 243"  data: no]
+DevTools listening on ws://localhost:55160/devtools/browser/1d986d24-a6a7-1a49-91e9-85585c56746d
+1636558459802	Marionette	INFO	Listening on port 55166
+1636558459917	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.entrekids.cl/actividad-evento/el-extraordinario-circo-de-halloween, line 6329: TypeError: $(...).remodal() is undefined
+JavaScript error: https://www.entrekids.cl/actividad-evento/el-extraordinario-circo-de-halloween, line 5469: TypeError: $(...).remodal() is undefined
+1636558490039	geckodriver	INFO	Listening on 127.0.0.1:55512
+1636558490565	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "55513" "-foreground" "-no-remote" "-profile" "/var/folders/xs/74k8fjls0hnds40rny9mcy_r0000gn/T/rust_mozprofileYP75Ib"
+1636558491379	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/xs/74k8fjls0hnds40rny9mcy_r0000gn/T/rust_mozprofileYP75Ib/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 243"  data: no]
+DevTools listening on ws://localhost:55513/devtools/browser/fb0e07a8-83ca-a742-a122-3aaa5cb87a73
+1636558496673	Marionette	INFO	Listening on port 55524
+1636558496774	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.entrekids.cl/actividad-evento/el-extraordinario-circo-de-halloween, line 6329: TypeError: $(...).remodal() is undefined
+JavaScript error: https://www.entrekids.cl/actividad-evento/el-extraordinario-circo-de-halloween, line 5469: TypeError: $(...).remodal() is undefined
+!!! error running onStopped callback: TypeError: callback is not a function
+1636558560258	Marionette	INFO	Stopped listening on port 54124
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1636558560388	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIWindowMediator.getEnumerator]"  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: chrome://remote/content/cdp/observers/TargetObserver.jsm :: stop :: line 64"  data: no] Stack trace: stop()@TargetObserver.jsm:64
+unwatchForTabs()@TargetList.jsm:70
+unwatchForTargets()@TargetList.jsm:37
+destructor()@TargetList.jsm:109
+close()@RemoteAgent.jsm:129
+!!! error running onStopped callback: TypeError: callback is not a function
+1636558561247	Marionette	INFO	Stopped listening on port 55166
+1636558562349	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIWindowMediator.getEnumerator]"  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: chrome://remote/content/cdp/observers/TargetObserver.jsm :: stop :: line 64"  data: no] Stack trace: stop()@TargetObserver.jsm:64
+unwatchForTabs()@TargetList.jsm:70
+unwatchForTargets()@TargetList.jsm:37
+destructor()@TargetList.jsm:109
+close()@RemoteAgent.jsm:129
+!!! error running onStopped callback: TypeError: callback is not a function
+1636558566156	Marionette	INFO	Stopped listening on port 55524
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1636558567160	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIWindowMediator.getEnumerator]"  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: chrome://remote/content/cdp/observers/TargetObserver.jsm :: stop :: line 64"  data: no] Stack trace: stop()@TargetObserver.jsm:64
+unwatchForTabs()@TargetList.jsm:70
+unwatchForTargets()@TargetList.jsm:37
+destructor()@TargetList.jsm:109
+close()@RemoteAgent.jsm:129
+!!! error running onStopped callback: TypeError: callback is not a function
+1636558569608	Marionette	INFO	Stopped listening on port 53336
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1636558569700	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIWindowMediator.getEnumerator]"  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: chrome://remote/content/cdp/observers/TargetObserver.jsm :: stop :: line 64"  data: no] Stack trace: stop()@TargetObserver.jsm:64
+unwatchForTabs()@TargetList.jsm:70
+unwatchForTargets()@TargetList.jsm:37
+destructor()@TargetList.jsm:109
+close()@RemoteAgent.jsm:129
+1636558575229	geckodriver	INFO	Listening on 127.0.0.1:56086
+1636558575751	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "56087" "-foreground" "-no-remote" "-profile" "/var/folders/xs/74k8fjls0hnds40rny9mcy_r0000gn/T/rust_mozprofileWTFURT"
+1636558576856	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/xs/74k8fjls0hnds40rny9mcy_r0000gn/T/rust_mozprofileWTFURT/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 243"  data: no]
+DevTools listening on ws://localhost:56087/devtools/browser/6a64dbcc-c1aa-804a-aa91-d6bc57938dd2
+1636558580982	Marionette	INFO	Listening on port 56094
+1636558581071	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.entrekids.cl/actividad-evento/el-extraordinario-circo-de-halloween, line 6329: TypeError: $(...).remodal() is undefined
+JavaScript error: https://www.entrekids.cl/actividad-evento/el-extraordinario-circo-de-halloween, line 5469: TypeError: $(...).remodal() is undefined
+1636558716189	geckodriver	INFO	Listening on 127.0.0.1:56870
+1636558716235	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "56871" "-foreground" "-no-remote" "-profile" "/var/folders/xs/74k8fjls0hnds40rny9mcy_r0000gn/T/rust_mozprofile5zwFns"
+1636558717400	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/xs/74k8fjls0hnds40rny9mcy_r0000gn/T/rust_mozprofile5zwFns/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 243"  data: no]
+DevTools listening on ws://localhost:56871/devtools/browser/75588f85-8c22-2740-be77-de1b82e867a2
+1636558721643	Marionette	INFO	Listening on port 56876
+1636558721729	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.entrekids.cl/producto/sandalia-outdoor-nina-fagus-1ss1122, line 5508: TypeError: $(...).remodal() is undefined
+JavaScript error: https://www.entrekids.cl/producto/sandalia-outdoor-nina-fagus-1ss1122, line 4648: TypeError: $(...).remodal() is undefined
+1636558740982	geckodriver	INFO	Listening on 127.0.0.1:57158
+1636558741009	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "57159" "-foreground" "-no-remote" "-profile" "/var/folders/xs/74k8fjls0hnds40rny9mcy_r0000gn/T/rust_mozprofileKxQmCx"
+1636558742016	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/xs/74k8fjls0hnds40rny9mcy_r0000gn/T/rust_mozprofileKxQmCx/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 243"  data: no]
+DevTools listening on ws://localhost:57159/devtools/browser/0f38be32-2c30-2a40-a5cb-c392d417b573
+1636558746526	Marionette	INFO	Listening on port 57164
+1636558746553	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.entrekids.cl/actividad-evento/el-extraordinario-circo-de-halloween, line 6329: TypeError: $(...).remodal() is undefined
+JavaScript error: https://www.entrekids.cl/actividad-evento/el-extraordinario-circo-de-halloween, line 5469: TypeError: $(...).remodal() is undefined
+1636566833947	geckodriver	INFO	Listening on 127.0.0.1:58539
+1636566834463	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "58540" "-foreground" "-no-remote" "-profile" "/var/folders/xs/74k8fjls0hnds40rny9mcy_r0000gn/T/rust_mozprofileO8dn32"
+1636566835705	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/xs/74k8fjls0hnds40rny9mcy_r0000gn/T/rust_mozprofileO8dn32/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 243"  data: no]
+DevTools listening on ws://localhost:58540/devtools/browser/9240a1a2-a716-3848-902e-7f26a03381a3
+1636566838706	Marionette	INFO	Listening on port 58551
+1636566838833	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.entrekids.cl/actividad-evento/el-extraordinario-circo-de-halloween, line 6329: TypeError: $(...).remodal() is undefined
+1636566961896	geckodriver	INFO	Listening on 127.0.0.1:59265
+1636566962416	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "59266" "-foreground" "-no-remote" "-profile" "/var/folders/xs/74k8fjls0hnds40rny9mcy_r0000gn/T/rust_mozprofileYnpERk"
+1636566963423	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/xs/74k8fjls0hnds40rny9mcy_r0000gn/T/rust_mozprofileYnpERk/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 243"  data: no]
+DevTools listening on ws://localhost:59266/devtools/browser/9888624c-1a2c-4540-8636-26105e9eed3e
+1636566968722	Marionette	INFO	Listening on port 59273
+1636566968833	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.entrekids.cl/producto/auto-coupe-electrico-bebesit-rosa, line 5490: TypeError: $(...).remodal() is undefined
+JavaScript error: https://www.entrekids.cl/producto/auto-coupe-electrico-bebesit-rosa, line 4630: TypeError: $(...).remodal() is undefined
+1636566994596	geckodriver	INFO	Listening on 127.0.0.1:59625
+1636566995111	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "59626" "-foreground" "-no-remote" "-profile" "/var/folders/xs/74k8fjls0hnds40rny9mcy_r0000gn/T/rust_mozprofileQ4ZOW3"
+1636566996076	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/xs/74k8fjls0hnds40rny9mcy_r0000gn/T/rust_mozprofileQ4ZOW3/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 243"  data: no]
+DevTools listening on ws://localhost:59626/devtools/browser/56aaa071-630f-9441-bca3-44d71ad4b6e9
+1636566999437	Marionette	INFO	Listening on port 59637
+1636566999489	Marionette	WARN	TLS certificate errors will be ignored for this session
+1636567010089	geckodriver	INFO	Listening on 127.0.0.1:59775
+1636567010604	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "59776" "-foreground" "-no-remote" "-profile" "/var/folders/xs/74k8fjls0hnds40rny9mcy_r0000gn/T/rust_mozprofiledyv9lP"
+1636567011151	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/xs/74k8fjls0hnds40rny9mcy_r0000gn/T/rust_mozprofiledyv9lP/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 243"  data: no]
+DevTools listening on ws://localhost:59776/devtools/browser/820bc41b-be98-db42-90cb-3b3a28f5afa0
+1636567014497	Marionette	INFO	Listening on port 59783
+1636567014563	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.entrekids.cl/producto/auto-coupe-electrico-bebesit-rosa, line 5490: TypeError: $(...).remodal() is undefined
+JavaScript error: https://www.entrekids.cl/producto/auto-coupe-electrico-bebesit-rosa, line 4630: TypeError: $(...).remodal() is undefined
+JavaScript error: https://www.entrekids.cl/actividad-evento/el-extraordinario-circo-de-halloween, line 5469: TypeError: $(...).remodal() is undefined
+!!! error running onStopped callback: TypeError: callback is not a function
+1636567277100	Marionette	INFO	Stopped listening on port 58551
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1636567277209	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIWindowMediator.getEnumerator]"  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: chrome://remote/content/cdp/observers/TargetObserver.jsm :: stop :: line 64"  data: no] Stack trace: stop()@TargetObserver.jsm:64
+unwatchForTabs()@TargetList.jsm:70
+unwatchForTargets()@TargetList.jsm:37
+destructor()@TargetList.jsm:109
+close()@RemoteAgent.jsm:129
+!!! error running onStopped callback: TypeError: callback is not a function
+1636567280167	Marionette	INFO	Stopped listening on port 59273
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1636567280309	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIWindowMediator.getEnumerator]"  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: chrome://remote/content/cdp/observers/TargetObserver.jsm :: stop :: line 64"  data: no] Stack trace: stop()@TargetObserver.jsm:64
+unwatchForTabs()@TargetList.jsm:70
+unwatchForTargets()@TargetList.jsm:37
+destructor()@TargetList.jsm:109
+close()@RemoteAgent.jsm:129
+!!! error running onStopped callback: TypeError: callback is not a function
+1636567281102	Marionette	INFO	Stopped listening on port 59637
+1636567281185	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIWindowMediator.getEnumerator]"  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: chrome://remote/content/cdp/observers/TargetObserver.jsm :: stop :: line 64"  data: no] Stack trace: stop()@TargetObserver.jsm:64
+unwatchForTabs()@TargetList.jsm:70
+unwatchForTargets()@TargetList.jsm:37
+destructor()@TargetList.jsm:109
+close()@RemoteAgent.jsm:129
+!!! error running onStopped callback: TypeError: callback is not a function
+1636567282392	Marionette	INFO	Stopped listening on port 59783
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1636567282534	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIWindowMediator.getEnumerator]"  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: chrome://remote/content/cdp/observers/TargetObserver.jsm :: stop :: line 64"  data: no] Stack trace: stop()@TargetObserver.jsm:64
+unwatchForTabs()@TargetList.jsm:70
+unwatchForTargets()@TargetList.jsm:37
+destructor()@TargetList.jsm:109
+close()@RemoteAgent.jsm:129

@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+   <meta charset="UTF-8">
+   <meta http-equiv="X-UA-Compatible" content="IE=edge">
+   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+   <title>Document</title>
+</head>
+<body>
+   
+   <form action="email" method="post">
+      <input
+      type="hidden"
+      name="image"
+      role="uploadcare-uploader"
+      data-public-key="9a802627dbaf41542e8d"
+      data-tabs="file camera url facebook gdrive gphotos"
+   />
+   <input type="submit" value="Save">
+   {{image}}
+   </form>
+
+
+   <script src="https://ucarecdn.com/libs/widget/3.x/uploadcare.full.min.js"></script>
+
+</body>
+</html>
