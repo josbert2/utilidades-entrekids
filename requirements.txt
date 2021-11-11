@@ -70,7 +70,7 @@ PyVirtualDisplay==2.2
 PyYAML==5.4.1
 regex==2021.7.6
 requests==2.26.0
-requests-toolbelt==0.8.0
+requests-toolbelt==0.9.1
 responses==0.14.0
 schedule==1.1.0
 selenium==4.0.0
